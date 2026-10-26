@@ -1,4 +1,7 @@
-﻿# WorkZen – Human Resource Management System
+# StaffSync — Human Resource Management System (fork/adaptation)
+
+> **About this fork:** This repository is maintained by **@raag11** as a student adaptation of [Dayflow HRMS](https://github.com/vaishnavikp156/dayflow-hrms), originally developed for the Odoo × NMIT Hackathon 2026. The upstream project’s author and MIT license are credited in the [LICENSE](LICENSE). The StaffSync title here is a presentation label; the original application branding and features remain upstream work unless explicitly changed and documented in this fork.
+
 
 **Human Resource Management System – Odoo × NMIT Hackathon 2026**
 
@@ -536,5 +539,4 @@ cd dayflow-hrms
 
 # 📄 License & Attribution
 
-Developed for the **Odoo × NMIT Hackathon 2026**.  
-Made with ❤️ in India.
+This repository is a fork/adaptation of [Dayflow HRMS](https://github.com/vaishnavikp156/dayflow-hrms), originally developed for the **Odoo × NMIT Hackathon 2026**. The upstream author is credited in [LICENSE](LICENSE), which is retained under the MIT License. The current fork-specific changes are its StaffSync presentation title and this attribution note; this fork does not claim upstream features as independently developed.
