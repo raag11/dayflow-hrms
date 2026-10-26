@@ -1,7 +1,7 @@
 {
-  "name": "dayflow-hrms",
+  "name": "staffsync-hrms-adaptation",
   "version": "1.0.0",
-  "description": "Dayflow - Human Resource Management System for Odoo x NMIT Hackathon",
+  "description": "StaffSync HRMS fork/adaptation of Dayflow HRMS (upstream attribution in README)",
   "scripts": {
     "install:all": "npm install && npm --prefix server install && npm --prefix client install",
     "dev:server": "npm --prefix server run dev",
@@ -9,9 +9,15 @@
     "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
     "seed": "npm --prefix server run seed"
   },
-  "keywords": ["hrms", "react", "express", "mongodb", "hackathon"],
-  "author": "Dayflow Team",
-  "license": "ISC",
+  "keywords": [
+    "hrms",
+    "react",
+    "express",
+    "mongodb",
+    "hackathon"
+  ],
+  "author": "raag11 (fork maintainer)",
+  "license": "MIT",
   "devDependencies": {
     "concurrently": "^9.1.2"
   }
